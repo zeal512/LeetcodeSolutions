@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/zeal512/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
+## Math
+|  |
+| ------- |
+| [2649-count-total-number-of-colored-cells](https://github.com/zeal512/LeetcodeSolutions/tree/master/2649-count-total-number-of-colored-cells) |
 <!---LeetCode Topics End-->
