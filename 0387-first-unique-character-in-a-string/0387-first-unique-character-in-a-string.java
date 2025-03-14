@@ -14,9 +14,8 @@ class Solution {
         }
 
         for(int i=0; i< arrSize; i++){
-            if(arr[i] != -1 && arr[i] != -2) minVal = Math.min(minVal, arr[i]);
+            if(arr[i] >=0) minVal = Math.min(minVal, arr[i]);
         }
-        if(minVal != Integer.MAX_VALUE) return minVal;
-        return -1;
+        return (minVal == Integer.MAX_VALUE) ? -1: minVal;
     }
 }
