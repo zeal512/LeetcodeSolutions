@@ -1,8 +1,10 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
+        //using recursion
         List<List<Integer>> list = new ArrayList<>();
         List<Integer> subSet = new ArrayList<>();
         findSubset(nums, 0, list, subSet);
+        //Below commented code uses power set
         //int n = nums.length;
         // for(int i=0; i< (1 << n); i++){
         //     list.add(new ArrayList<>());
