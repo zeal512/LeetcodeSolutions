@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/zeal512/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/zeal512/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/zeal512/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/zeal512/LeetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/zeal512/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/zeal512/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/zeal512/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/zeal512/LeetcodeSolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/zeal512/LeetcodeSolutions/tree/master/0342-power-of-four) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/zeal512/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/zeal512/LeetcodeSolutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/zeal512/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/zeal512/LeetcodeSolutions/tree/master/0342-power-of-four) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/zeal512/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
