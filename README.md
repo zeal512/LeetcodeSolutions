@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1752-arithmetic-subarrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/1752-arithmetic-subarrays) |
+| [2737-row-with-maximum-ones](https://github.com/zeal512/LeetcodeSolutions/tree/master/2737-row-with-maximum-ones) |
 ## Backtracking
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/zeal512/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zeal512/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
+| [2737-row-with-maximum-ones](https://github.com/zeal512/LeetcodeSolutions/tree/master/2737-row-with-maximum-ones) |
 ## Binary Search Tree
 |  |
 | ------- |
