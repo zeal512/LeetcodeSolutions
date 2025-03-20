@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/zeal512/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/zeal512/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zeal512/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
+| [0202-happy-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/zeal512/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1752-arithmetic-subarrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/1752-arithmetic-subarrays) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/zeal512/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/zeal512/LeetcodeSolutions/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/zeal512/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/zeal512/LeetcodeSolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/zeal512/LeetcodeSolutions/tree/master/0342-power-of-four) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0344-reverse-string) |
 ## Sliding Window
