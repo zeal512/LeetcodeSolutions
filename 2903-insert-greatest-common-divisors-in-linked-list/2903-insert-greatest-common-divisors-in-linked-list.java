@@ -24,13 +24,15 @@ class Solution {
     }
 
     public static int calculateGCD(int num1, int num2) {
-        int gcd = Math.min(num1, num2);
+        /* int gcd = Math.min(num1, num2);
         while (gcd > 1) {
             if (num1 % gcd == 0 && num2 % gcd == 0) {
                 return gcd;
             }
             gcd--;
         }
-        return 1;
+        return 1; */
+        if(num2 == 0) return num1;
+        return calculateGCD(num2, num1%num2);
     }
 }
