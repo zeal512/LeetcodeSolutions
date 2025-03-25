@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/zeal512/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1752-arithmetic-subarrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/1752-arithmetic-subarrays) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/zeal512/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zeal512/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
