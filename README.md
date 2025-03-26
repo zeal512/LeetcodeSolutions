@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/zeal512/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zeal512/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/zeal512/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/zeal512/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1752-arithmetic-subarrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/1752-arithmetic-subarrays) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/zeal512/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/zeal512/LeetcodeSolutions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0525-contiguous-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/zeal512/LeetcodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Linked List
@@ -230,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/zeal512/LeetcodeSolutions/tree/master/2413-smallest-number-in-infinite-set) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
