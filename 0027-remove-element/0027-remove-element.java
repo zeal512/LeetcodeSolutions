@@ -1,6 +1,6 @@
 class Solution {
     public int removeElement(int[] nums, int val) {
-        int left = 0, right = nums.length-1, count = nums.length-1;
+        int left = 0, right = nums.length-1;
         while(left<=right){
             if(nums[right] == val){
                 nums[right] = -1;
