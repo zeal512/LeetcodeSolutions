@@ -20,14 +20,12 @@ class Solution {
 
         return Math.min(Math.min(Math.min(b, a), Math.min(l, o)), n); */
 
-        int[] freq = new int[26];  // For 'a' to 'z'
-
+        int[] freq = new int[26];
         for (char ch : text.toCharArray()) {
             if ("balon".indexOf(ch) != -1) {
                 freq[ch - 'a']++;
             }
         }
-        
         return Math.min(
             Math.min(freq['b' - 'a'], freq['a' - 'a']),
             Math.min(Math.min(freq['l' - 'a'] / 2, freq['o' - 'a'] / 2), freq['n' - 'a'])
