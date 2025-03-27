@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/1752-arithmetic-subarrays) |
 | [2413-smallest-number-in-infinite-set](https://github.com/zeal512/LeetcodeSolutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2427-first-letter-to-appear-twice](https://github.com/zeal512/LeetcodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
+| [3324-split-the-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/3324-split-the-array) |
 ## String
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1752-arithmetic-subarrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/1752-arithmetic-subarrays) |
 | [2737-row-with-maximum-ones](https://github.com/zeal512/LeetcodeSolutions/tree/master/2737-row-with-maximum-ones) |
+| [3324-split-the-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/3324-split-the-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/zeal512/LeetcodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
+| [3324-split-the-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/3324-split-the-array) |
 ## Linked List
 |  |
 | ------- |
