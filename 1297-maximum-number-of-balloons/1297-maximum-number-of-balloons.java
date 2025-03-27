@@ -1,6 +1,6 @@
 class Solution {
     public int maxNumberOfBalloons(String text) {
-        Map<Character, Integer> count = new HashMap<>();
+        /* Map<Character, Integer> count = new HashMap<>();
         String s = "balon";
 
         for(char ch: s.toCharArray()){
@@ -18,6 +18,19 @@ class Solution {
         int o = count.get('o') / 2;
         int n = count.get('n');
 
-        return Math.min(Math.min(Math.min(b, a), Math.min(l, o)), n);
+        return Math.min(Math.min(Math.min(b, a), Math.min(l, o)), n); */
+
+        int[] freq = new int[26];  // For 'a' to 'z'
+
+        for (char ch : text.toCharArray()) {
+            if ("balon".indexOf(ch) != -1) {
+                freq[ch - 'a']++;
+            }
+        }
+        
+        return Math.min(
+            Math.min(freq['b' - 'a'], freq['a' - 'a']),
+            Math.min(Math.min(freq['l' - 'a'] / 2, freq['o' - 'a'] / 2), freq['n' - 'a'])
+        );
     }
 }
