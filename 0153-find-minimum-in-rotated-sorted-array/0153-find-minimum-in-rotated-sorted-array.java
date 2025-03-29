@@ -4,17 +4,14 @@ class Solution {
         while(low<=high){
             int mid = (low+high)/2;
             if(nums[low] <= nums[mid]){
-                min = minimum(nums[low], min);
+                min = Math.min(nums[low], min);
                 low = mid+1;
             }
             else{
-                min = minimum(min, nums[mid]);
+                min = Math.min(min, nums[mid]);
                 high = mid-1;
             }
         }
         return min;
-    }
-    public static int minimum(int a, int b){
-        return (a < b) ? a : b;
     }
 }
