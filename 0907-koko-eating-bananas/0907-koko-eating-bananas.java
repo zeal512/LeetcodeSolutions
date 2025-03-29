@@ -1,6 +1,6 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int left =1, right = 1_000_000_000;
+        int left =1, right = findMaxBananasInPile(piles);
         long minSpeed = right;
         while(left <= right){
             int speed = left + (right - left) /2;
@@ -16,13 +16,13 @@ class Solution {
         return (int)minSpeed;
     }
 
-    /* public static int findMaxBananasInPile(int[] piles){
+    public static int findMaxBananasInPile(int[] piles){
         int max =piles[0]; 
         for(int i=0; i< piles.length; i++){
             max = Math.max(max, piles[i]);
         }
         return max;
-    } */
+    }
     
     public static long calculateTime(int speed, int[] piles){
         long time =0; 
