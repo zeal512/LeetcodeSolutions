@@ -11,15 +11,32 @@
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
         if(lists.length == 0) return null;
-        ListNode head = lists[0];
-        for(int i=1; i< lists.length; i++){
-            head = mergeTwoLists(head, lists[i]);
+        // ListNode head = lists[0];
+        // for(int i=1; i< lists.length; i++){
+        //     head = mergeTwoLists(head, lists[i]);
+        // }
+
+        //return head;
+        PriorityQueue<Integer> pqueue = new PriorityQueue<>();
+
+        for(ListNode head : lists){
+            while (head != null) {
+                pqueue.add(head.val);
+                head = head.next;
+            }
         }
-        return head;
+        ListNode temp = new ListNode(-1);
+        ListNode curr = temp;
+        
+        while(!pqueue.isEmpty()){
+            curr.next = new ListNode(pqueue.poll());
+            curr = curr.next;
+        }
+        return temp.next;
     }
 
 
-    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+    /* public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         if(list1 == null){
             return list2;
         }
@@ -37,5 +54,5 @@ class Solution {
         }
         head.next = mergeTwoLists( list1, list2);
         return head;
-    }
+    } */
 }
