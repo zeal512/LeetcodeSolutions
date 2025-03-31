@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/zeal512/LeetcodeSolutions/tree/master/1297-maximum-number-of-balloons) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/zeal512/LeetcodeSolutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2427-first-letter-to-appear-twice](https://github.com/zeal512/LeetcodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/zeal512/LeetcodeSolutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
