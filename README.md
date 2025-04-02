@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/zeal512/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/zeal512/LeetcodeSolutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/zeal512/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/zeal512/LeetcodeSolutions/tree/master/0326-power-of-three) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/zeal512/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/zeal512/LeetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
