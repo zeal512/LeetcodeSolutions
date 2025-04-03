@@ -7,11 +7,8 @@ class Solution {
         while (left < maxCookies && right < noOfChildren) {
             if(g[right] <= s[left]){
                 right++;
-                left++;
             }
-            else{
-                left++;
-            }
+            left++;
         }
         return right;
     }
