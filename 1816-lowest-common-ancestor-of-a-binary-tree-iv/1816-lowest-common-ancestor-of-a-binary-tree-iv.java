@@ -13,14 +13,14 @@ class Solution {
         for(TreeNode node: nodes){
             set.add(node.val);
         }
-        TreeNode returnNode = traverse(root, nodes, set);
+        TreeNode returnNode = traverse(root, set);
         return returnNode;
     }
     
-    public TreeNode traverse(TreeNode node, TreeNode[] nodes, HashSet<Integer> set){
+    public TreeNode traverse(TreeNode node, HashSet<Integer> set){
         if(node == null || set.contains(node.val)) return node;
-        TreeNode left = traverse(node.left, nodes, set);
-        TreeNode right = traverse(node.right, nodes, set);
+        TreeNode left = traverse(node.left, set);
+        TreeNode right = traverse(node.right, set);
 
         if(left == null) return right;
         else if(right == null) return left;
