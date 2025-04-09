@@ -14,24 +14,23 @@
  * }
  */
 class Solution {
-    int count =0;
     public int pathSum(TreeNode root, int targetSum) {
-        if(root == null) return 0;
-        traverseDFS(root, targetSum);
-        
-        pathSum(root.left, targetSum);
-        pathSum(root.right, targetSum);
-
-        return count;
+        HashMap<Long, Integer> prefixSum = new HashMap<>();
+        prefixSum.put(0L, 1);
+        return traverseDFS(root, targetSum, 0, prefixSum);
     }
-    public void traverseDFS(TreeNode node, long targetSum){
+    public int traverseDFS(TreeNode node, long targetSum, long sum, 
+                            HashMap<Long, Integer> prefixSum ){
         if(node == null){
-            return;
+            return 0;
         }
-        if(targetSum == node.val) count++;
+        sum +=node.val;
+        int count = prefixSum.getOrDefault(sum - targetSum, 0);
+        prefixSum.put(sum, prefixSum.getOrDefault(sum, 0) +1);
         
-        traverseDFS(node.left, targetSum - node.val);
-        traverseDFS(node.right, targetSum - node.val);
-
+        count +=traverseDFS(node.left, targetSum, sum, prefixSum);
+        count +=traverseDFS(node.right, targetSum, sum, prefixSum);
+        prefixSum.put(sum, prefixSum.get(sum)-1);
+        return count;
     }
 }
