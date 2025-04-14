@@ -4,11 +4,9 @@ class Solution {
         for(int num: nums){
             pqueue.add(num);
         }
-        System.out.println(pqueue);
-        int klargest = 0;
-        for (int i = 0; i <= nums.length-k; i++) {
-            klargest = pqueue.poll();
+        for (int i = 0; i < nums.length - k; i++) {
+            pqueue.poll();
         }
-        return klargest;
+        return pqueue.peek();
     }
 }
