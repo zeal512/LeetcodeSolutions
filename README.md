@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1656-count-good-triplets](https://github.com/zeal512/LeetcodeSolutions/tree/master/1656-count-good-triplets) |
 | [1752-arithmetic-subarrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/1752-arithmetic-subarrays) |
 | [2737-row-with-maximum-ones](https://github.com/zeal512/LeetcodeSolutions/tree/master/2737-row-with-maximum-ones) |
 | [3324-split-the-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/3324-split-the-array) |
@@ -328,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/zeal512/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/zeal512/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/zeal512/LeetcodeSolutions/tree/master/0890-lemonade-change) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/zeal512/LeetcodeSolutions/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
