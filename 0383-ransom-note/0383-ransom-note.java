@@ -5,8 +5,8 @@ class Solution {
             magzineLetter.put(ch, magzineLetter.getOrDefault(ch, 0) + 1);
         }
         for(char c : ransomNote.toCharArray()){
-            if (!magzineLetter.containsKey(c)) return false;
-            if(magzineLetter.get(c) <=0) return false;
+            if (!magzineLetter.containsKey(c) || magzineLetter.get(c) <=0) return false;
+            
             magzineLetter.put(c, magzineLetter.get(c) -1 );
         }
         return true;
