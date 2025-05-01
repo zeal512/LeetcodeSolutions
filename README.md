@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/zeal512/LeetcodeSolutions/tree/master/0491-non-decreasing-subsequences) |
 | [0525-contiguous-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/zeal512/LeetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/zeal512/LeetcodeSolutions/tree/master/0782-jewels-and-stones) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/zeal512/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/zeal512/LeetcodeSolutions/tree/master/0491-non-decreasing-subsequences) |
 | [0525-contiguous-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/zeal512/LeetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0890-lemonade-change](https://github.com/zeal512/LeetcodeSolutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/zeal512/LeetcodeSolutions/tree/master/0907-koko-eating-bananas) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/zeal512/LeetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/1603-running-sum-of-1d-array) |
