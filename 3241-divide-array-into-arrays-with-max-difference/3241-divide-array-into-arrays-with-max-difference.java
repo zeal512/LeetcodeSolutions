@@ -1,18 +1,28 @@
 class Solution {
     public int[][] divideArray(int[] nums, int k) {
-        nums = sortArray(nums, 0, nums.length-1);
-        int maxArrays = nums.length/3;
-        int[][] outputArr = new int[maxArrays][3];
+        Arrays.sort(nums);
+        //nums = sortArray(nums, 0, nums.length-1);
+        //int maxArrays = nums.length/3;
+        int[][] outputArr = new int[nums.length/3][3];
         int counter = 0;
-        for (int i = 0; i < maxArrays; i++) {
+        /* for (int i = 0; i < maxArrays; i++) {
             if(Math.abs(nums[counter + 2] - nums[counter]) > k ) return new int[0][0];
             for (int j = 0; j < 3; j++) {
                 outputArr[i][j] = nums[counter++];
             }
+        } */
+
+        for(int i=0; i< nums.length; i+=3 ){
+            if(Math.abs(nums[i + 2] - nums[i]) > k ) return new int[0][0];
+            outputArr[counter][0] = nums[i];
+            outputArr[counter][1] = nums[i+1];
+            outputArr[counter][2] = nums[i+2];
+            counter++;
         }
+
         return outputArr;
     }
-    public static int[] sortArray(int[] nums, int low, int high){
+    /* public static int[] sortArray(int[] nums, int low, int high){
         if (low >=high) {
             return nums;
         }
@@ -51,5 +61,5 @@ class Solution {
         for(int i=0; i< temp.length; i++){
             nums[low+i] = temp[i];
         }
-    }
+    } */
 }
