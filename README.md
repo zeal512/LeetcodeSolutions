@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1752-arithmetic-subarrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/1752-arithmetic-subarrays) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeal512/LeetcodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Union Find
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/1752-arithmetic-subarrays) |
 | [2737-row-with-maximum-ones](https://github.com/zeal512/LeetcodeSolutions/tree/master/2737-row-with-maximum-ones) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/zeal512/LeetcodeSolutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeal512/LeetcodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3324-split-the-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/3324-split-the-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/zeal512/LeetcodeSolutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Backtracking
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/zeal512/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/zeal512/LeetcodeSolutions/tree/master/0890-lemonade-change) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeal512/LeetcodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Enumeration
 |  |
 | ------- |
