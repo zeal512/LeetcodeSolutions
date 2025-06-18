@@ -1,16 +1,13 @@
 class Solution {
     public int[][] divideArray(int[] nums, int k) {
-        /* Step 1 - sort the input array nums 
-        Step 2 - Divide the sorted array into n/3 arrays. 
-        Step 3 - if all the newly generated array satifsy the condition, return the array, else return null*/
-        int[] sortedArray = sortArray(nums, 0, nums.length-1);
+        nums = sortArray(nums, 0, nums.length-1);
         int maxArrays = nums.length/3;
         int[][] outputArr = new int[maxArrays][3];
         int counter = 0;
         for (int i = 0; i < maxArrays; i++) {
-            if(Math.abs(sortedArray[counter + 2] - sortedArray[counter]) > k ) return new int[0][0];
+            if(Math.abs(nums[counter + 2] - nums[counter]) > k ) return new int[0][0];
             for (int j = 0; j < 3; j++) {
-                outputArr[i][j] = sortedArray[counter++];
+                outputArr[i][j] = nums[counter++];
             }
         }
         return outputArr;
