@@ -12,12 +12,6 @@ class Solution {
                 return pathOfQ.get(i);
             }
         }
-
-        /* for (int i = pathOfQ.size()-1; i >=0 ; i--) {
-            if (setOfP.contains(pathOfQ.get(i))) {
-                return pathOfQ.get(i);
-            }
-        } */
         return root;
     }
 
