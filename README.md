@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/zeal512/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/zeal512/LeetcodeSolutions/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/zeal512/LeetcodeSolutions/tree/master/1297-maximum-number-of-balloons) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0394-decode-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/zeal512/LeetcodeSolutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Recursion
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/zeal512/LeetcodeSolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/zeal512/LeetcodeSolutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
