@@ -2,22 +2,22 @@ class Solution {
     public int equalPairs(int[][] grid) {
         int size = grid.length;
         int equalCount = 0;
-        Map<String, Integer> rows = new HashMap<>();
+        Map<List<Integer>, Integer> rows = new HashMap<>();
         for (int i = 0; i < size; i++) {
-            StringBuilder builder = new StringBuilder();
+            List<Integer> list = new ArrayList<>();
             for (int j = 0; j < size; j++) {
-                builder.append(grid[i][j]).append(",");                
+                list.add(grid[i][j]);
             }   
-            rows.put(builder.toString(), rows.getOrDefault(builder.toString(), 0) +1 );
+            rows.put(list, rows.getOrDefault(list, 0)+1);
         }
         
         for (int i = 0; i < size; i++) {
-            StringBuilder colBuilder = new StringBuilder();
+            List<Integer> colList = new ArrayList<>();
             for (int j = 0; j < size; j++) {
-                colBuilder.append(grid[j][i]).append(",");                
+                colList.add(grid[j][i]);
             }
-            if(rows.get(colBuilder.toString()) != null){
-                equalCount += rows.get(colBuilder.toString());
+            if (rows.get(colList) != null) {
+                equalCount += rows.get(colList);
             }
         }
         return equalCount;
