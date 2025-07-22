@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/zeal512/LeetcodeSolutions/tree/master/1297-maximum-number-of-balloons) |
 | [1752-arithmetic-subarrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/1752-arithmetic-subarrays) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [1813-maximum-erasure-value](https://github.com/zeal512/LeetcodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/zeal512/LeetcodeSolutions/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2413-smallest-number-in-infinite-set](https://github.com/zeal512/LeetcodeSolutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2427-first-letter-to-appear-twice](https://github.com/zeal512/LeetcodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1656-count-good-triplets](https://github.com/zeal512/LeetcodeSolutions/tree/master/1656-count-good-triplets) |
 | [1752-arithmetic-subarrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/1752-arithmetic-subarrays) |
+| [1813-maximum-erasure-value](https://github.com/zeal512/LeetcodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/zeal512/LeetcodeSolutions/tree/master/2737-row-with-maximum-ones) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/zeal512/LeetcodeSolutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1813-maximum-erasure-value](https://github.com/zeal512/LeetcodeSolutions/tree/master/1813-maximum-erasure-value) |
 ## Prefix Sum
 |  |
 | ------- |
