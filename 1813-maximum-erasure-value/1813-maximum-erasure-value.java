@@ -1,8 +1,5 @@
 class Solution {
     public int maximumUniqueSubarray(int[] nums) {
-        if (nums.length == 1) {
-            return nums[0];
-        }
         Set<Integer> uniqueSet = new HashSet<>();
         int left = 0, right = 0;
         int sum = 0, maxSum = 0;
