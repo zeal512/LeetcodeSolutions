@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/zeal512/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/zeal512/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/zeal512/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/0202-happy-number) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/zeal512/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/zeal512/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/zeal512/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
