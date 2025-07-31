@@ -1,6 +1,6 @@
 class Solution {
     public int countHillValley(int[] nums) {
-        int hills =0, vally =0;
+        int hillsOrVally =0;
         List<Integer> unique = new ArrayList<>();
         unique.add(nums[0]);
         for (int i = 1; i < nums.length; i++) {
@@ -9,13 +9,11 @@ class Solution {
             }
         }
         for (int i = 1; i < unique.size()-1; i++) {
-            if (unique.get(i) > unique.get(i-1) &&  unique.get(i) > unique.get(i+1)) {
-                hills++;
-            }
-            else if(unique.get(i) < unique.get(i-1) &&  unique.get(i) < unique.get(i+1)){
-                vally++;
+            if ((unique.get(i) > unique.get(i-1) &&  unique.get(i) > unique.get(i+1)) || 
+                (unique.get(i) < unique.get(i-1) &&  unique.get(i) < unique.get(i+1) ) ) {
+                hillsOrVally++;
             }
         }
-        return hills + vally;
+        return hillsOrVally;
     }
 }
