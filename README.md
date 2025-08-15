@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/zeal512/LeetcodeSolutions/tree/master/0182-duplicate-emails) |
 | [1908-recyclable-and-low-fat-products](https://github.com/zeal512/LeetcodeSolutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## Bucket Sort
 |  |
