@@ -32,10 +32,6 @@ class Solution {
             int prevIndex = stack.isEmpty()?-1:stack.peek();
             area = Math.max(area, heights[currIndex] * (nextSmaller - prevIndex -1) );
         }
-
         return area;
-
-
-
     }
 }
