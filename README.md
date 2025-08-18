@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0545-boundary-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1035-cousins-in-binary-tree) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0545-boundary-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/zeal512/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/zeal512/LeetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/zeal512/LeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/zeal512/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/zeal512/LeetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0545-boundary-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1035-cousins-in-binary-tree) |
