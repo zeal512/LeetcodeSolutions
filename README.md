@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/zeal512/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/zeal512/LeetcodeSolutions/tree/master/0491-non-decreasing-subsequences) |
+| [0498-diagonal-traverse](https://github.com/zeal512/LeetcodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/zeal512/LeetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/zeal512/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/zeal512/LeetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/zeal512/LeetcodeSolutions/tree/master/0498-diagonal-traverse) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/zeal512/LeetcodeSolutions/tree/master/2737-row-with-maximum-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/zeal512/LeetcodeSolutions/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/zeal512/LeetcodeSolutions/tree/master/0498-diagonal-traverse) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
