@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/zeal512/LeetcodeSolutions/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/zeal512/LeetcodeSolutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2384-root-equals-sum-of-children](https://github.com/zeal512/LeetcodeSolutions/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/zeal512/LeetcodeSolutions/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/zeal512/LeetcodeSolutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2384-root-equals-sum-of-children](https://github.com/zeal512/LeetcodeSolutions/tree/master/2384-root-equals-sum-of-children) |
 ## Hash Table
 |  |
 | ------- |
