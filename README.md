@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2714-left-and-right-sum-differences](https://github.com/zeal512/LeetcodeSolutions/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/zeal512/LeetcodeSolutions/tree/master/2737-row-with-maximum-ones) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/zeal512/LeetcodeSolutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeal512/LeetcodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/2102-find-the-middle-index-in-array) |
+| [2714-left-and-right-sum-differences](https://github.com/zeal512/LeetcodeSolutions/tree/master/2714-left-and-right-sum-differences) |
 ## Dynamic Programming
 |  |
 | ------- |
