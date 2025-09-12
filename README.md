@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/zeal512/LeetcodeSolutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/zeal512/LeetcodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/1448-maximum-69-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/zeal512/LeetcodeSolutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/zeal512/LeetcodeSolutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/zeal512/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/zeal512/LeetcodeSolutions/tree/master/0890-lemonade-change) |
+| [1448-maximum-69-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/1448-maximum-69-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeal512/LeetcodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/zeal512/LeetcodeSolutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Enumeration
