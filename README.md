@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/zeal512/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/zeal512/LeetcodeSolutions/tree/master/0455-assign-cookies) |
+| [0487-max-consecutive-ones-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0487-max-consecutive-ones-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/zeal512/LeetcodeSolutions/tree/master/0491-non-decreasing-subsequences) |
 | [0498-diagonal-traverse](https://github.com/zeal512/LeetcodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0525-contiguous-array) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0487-max-consecutive-ones-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0487-max-consecutive-ones-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/zeal512/LeetcodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/zeal512/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0487-max-consecutive-ones-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0487-max-consecutive-ones-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/zeal512/LeetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
