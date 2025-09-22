@@ -3,11 +3,12 @@ class Solution {
         Map<Integer, Integer> frequencies = new HashMap<>();
         int maxFrequency = 0, maxCount =0;
         for (int num : nums) {
-            frequencies.put(num, frequencies.getOrDefault(num, 0)+1);
-            maxFrequency = Math.max(maxFrequency, frequencies.get(num));
-        }
-        for(int key : frequencies.keySet()){
-            if (frequencies.get(key) == maxFrequency ) maxCount+=frequencies.get(key);
+            int frequency = frequencies.getOrDefault(num, 0)+1;
+            frequencies.put(num, frequency);
+            if ( frequency > maxFrequency ) {
+                maxFrequency = frequency;
+                maxCount = frequency;
+            }else if (frequency == maxFrequency ) maxCount+=frequency;
         }
         return maxCount;
     }
