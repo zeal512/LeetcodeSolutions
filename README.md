@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/zeal512/LeetcodeSolutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/zeal512/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/zeal512/LeetcodeSolutions/tree/master/0067-add-binary) |
+| [0165-compare-version-numbers](https://github.com/zeal512/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/zeal512/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0243-shortest-word-distance](https://github.com/zeal512/LeetcodeSolutions/tree/master/0243-shortest-word-distance) |
 | [0257-binary-tree-paths](https://github.com/zeal512/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/zeal512/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0027-remove-element) |
+| [0165-compare-version-numbers](https://github.com/zeal512/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0283-move-zeroes) |
