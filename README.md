@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/zeal512/LeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/zeal512/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
+| [0550-shortest-path-to-get-food](https://github.com/zeal512/LeetcodeSolutions/tree/master/0550-shortest-path-to-get-food) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/zeal512/LeetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/zeal512/LeetcodeSolutions/tree/master/0491-non-decreasing-subsequences) |
 | [0498-diagonal-traverse](https://github.com/zeal512/LeetcodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0525-contiguous-array) |
+| [0550-shortest-path-to-get-food](https://github.com/zeal512/LeetcodeSolutions/tree/master/0550-shortest-path-to-get-food) |
 | [0560-subarray-sum-equals-k](https://github.com/zeal512/LeetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/zeal512/LeetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/zeal512/LeetcodeSolutions/tree/master/0498-diagonal-traverse) |
+| [0550-shortest-path-to-get-food](https://github.com/zeal512/LeetcodeSolutions/tree/master/0550-shortest-path-to-get-food) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/zeal512/LeetcodeSolutions/tree/master/2737-row-with-maximum-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
