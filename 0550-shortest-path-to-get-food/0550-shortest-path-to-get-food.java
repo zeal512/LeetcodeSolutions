@@ -24,6 +24,7 @@ class Solution {
         
         while(!queue.isEmpty()){
             int currentLevel = queue.size();
+            pathSize++;
             for(int k=0; k<currentLevel; k++){
                 int[] curr = queue.poll();
                 int currRow = curr[0], currCol = curr[1];
@@ -32,7 +33,7 @@ class Solution {
                     int newCol = currCol + colTravel[i];
                     if(newRow >=0 && newRow < rowSize && newCol >= 0 && newCol < colSize && 
                         grid[newRow][newCol]!= 'X' && !visited[newRow][newCol]){
-                        if(grid[newRow][newCol] == '#') return pathSize+1;
+                        if(grid[newRow][newCol] == '#') return pathSize;
                         else{
                             visited[newRow][newCol] = true;
                             queue.offer(new int[]{newRow, newCol});
@@ -40,7 +41,6 @@ class Solution {
                     }
                 }
             }
-            pathSize++;
         }
         return -1;
     }
