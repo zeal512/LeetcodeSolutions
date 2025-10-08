@@ -1,7 +1,5 @@
 class Solution {
     public void rotate(int[] nums, int k) {
-        //if(k == 0 || nums.length == 1 || k == nums.length) return;
-
         int sizeOfArray = nums.length;
         int left = 0, right = sizeOfArray-1;
         swap(nums, left, right);
