@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/zeal512/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/zeal512/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/zeal512/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/zeal512/LeetcodeSolutions/tree/master/0326-power-of-three) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/zeal512/LeetcodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/zeal512/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0283-move-zeroes) |
