@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/zeal512/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/zeal512/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/0202-happy-number) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/zeal512/LeetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/zeal512/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/zeal512/LeetcodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
