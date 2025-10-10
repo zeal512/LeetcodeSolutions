@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-buildings-with-an-ocean-view](https://github.com/zeal512/LeetcodeSolutions/tree/master/1909-buildings-with-an-ocean-view) |
 | [2102-find-the-middle-index-in-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2350-find-closest-number-to-zero](https://github.com/zeal512/LeetcodeSolutions/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2369-maximum-sum-score-of-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/2369-maximum-sum-score-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
