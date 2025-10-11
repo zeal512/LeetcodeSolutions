@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zeal512/LeetcodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1297-maximum-number-of-balloons](https://github.com/zeal512/LeetcodeSolutions/tree/master/1297-maximum-number-of-balloons) |
+| [1319-unique-number-of-occurrences](https://github.com/zeal512/LeetcodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1391-counting-elements](https://github.com/zeal512/LeetcodeSolutions/tree/master/1391-counting-elements) |
 | [1752-arithmetic-subarrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/1752-arithmetic-subarrays) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/zeal512/LeetcodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [1028-interval-list-intersections](https://github.com/zeal512/LeetcodeSolutions/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/zeal512/LeetcodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/zeal512/LeetcodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1391-counting-elements](https://github.com/zeal512/LeetcodeSolutions/tree/master/1391-counting-elements) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
