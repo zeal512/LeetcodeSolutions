@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/zeal512/LeetcodeSolutions/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/zeal512/LeetcodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1391-counting-elements](https://github.com/zeal512/LeetcodeSolutions/tree/master/1391-counting-elements) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/zeal512/LeetcodeSolutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1752-arithmetic-subarrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/1752-arithmetic-subarrays) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1813-maximum-erasure-value](https://github.com/zeal512/LeetcodeSolutions/tree/master/1813-maximum-erasure-value) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1656-count-good-triplets](https://github.com/zeal512/LeetcodeSolutions/tree/master/1656-count-good-triplets) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/zeal512/LeetcodeSolutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1752-arithmetic-subarrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/1752-arithmetic-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/zeal512/LeetcodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1909-buildings-with-an-ocean-view](https://github.com/zeal512/LeetcodeSolutions/tree/master/1909-buildings-with-an-ocean-view) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [1028-interval-list-intersections](https://github.com/zeal512/LeetcodeSolutions/tree/master/1028-interval-list-intersections) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/zeal512/LeetcodeSolutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Sliding Window
 |  |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/zeal512/LeetcodeSolutions/tree/master/0146-lru-cache) |
+| [1713-dot-product-of-two-sparse-vectors](https://github.com/zeal512/LeetcodeSolutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2413-smallest-number-in-infinite-set](https://github.com/zeal512/LeetcodeSolutions/tree/master/2413-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
