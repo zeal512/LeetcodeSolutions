@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/zeal512/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/zeal512/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zeal512/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/zeal512/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zeal512/LeetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/zeal512/LeetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/zeal512/LeetcodeSolutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/zeal512/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/zeal512/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/zeal512/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/zeal512/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/zeal512/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/zeal512/LeetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/zeal512/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zeal512/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/zeal512/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/zeal512/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/zeal512/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/zeal512/LeetcodeSolutions/tree/master/0056-merge-intervals) |
