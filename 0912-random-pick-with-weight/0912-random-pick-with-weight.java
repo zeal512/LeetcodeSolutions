@@ -1,11 +1,9 @@
 class Solution {
     List<Integer> preSum = new ArrayList<>();
     public Solution(int[] w) {
-        int[] prefixSum = new int[w.length];
         int sum = 0;
         for(int i=0; i<w.length; i++){
             sum+=w[i];
-            prefixSum[i] = sum;
             preSum.add(sum);
         }
     }
