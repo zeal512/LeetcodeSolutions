@@ -15,7 +15,7 @@ class Solution {
         ListNode start1 = head;
         int sum =0;
         /* Finding middle node of the list */
-        while(fast != null){
+        while(fast != null && fast.next != null ){
             fast = fast.next.next;
             slow = slow.next;
         }
