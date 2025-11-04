@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/zeal512/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/zeal512/LeetcodeSolutions/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/zeal512/LeetcodeSolutions/tree/master/0242-valid-anagram) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/zeal512/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0189-rotate-array) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/zeal512/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/zeal512/LeetcodeSolutions/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/zeal512/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zeal512/LeetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/zeal512/LeetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -564,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/zeal512/LeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
