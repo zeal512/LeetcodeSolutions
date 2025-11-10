@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/zeal512/LeetcodeSolutions/tree/master/0342-power-of-four) |
 | [0912-random-pick-with-weight](https://github.com/zeal512/LeetcodeSolutions/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/1013-fibonacci-number) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/zeal512/LeetcodeSolutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/zeal512/LeetcodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/zeal512/LeetcodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/zeal512/LeetcodeSolutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/zeal512/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/zeal512/LeetcodeSolutions/tree/master/0890-lemonade-change) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/zeal512/LeetcodeSolutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/1448-maximum-69-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeal512/LeetcodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/zeal512/LeetcodeSolutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
