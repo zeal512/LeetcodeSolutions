@@ -6,7 +6,7 @@ class Solution {
             max += weight;
         }
         while (min < max) {
-            int avgWeight = (min + max) / 2;
+            int avgWeight = min + (max - min)/ 2;
             if (isPossible(weights, avgWeight, days)) {
                 max = avgWeight;
             } else {
