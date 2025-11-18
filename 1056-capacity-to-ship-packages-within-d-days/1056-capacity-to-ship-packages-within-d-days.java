@@ -7,7 +7,6 @@ class Solution {
         }
         while (min < max) {
             int avgWeight = (min + max) / 2;
-            System.out.println(avgWeight);
             if (isPossible(weights, avgWeight, days)) {
                 max = avgWeight;
             } else {
@@ -24,8 +23,9 @@ class Solution {
             if (sum > currWeight) {
                 totalDays += 1;
                 sum = weights[i];
+                if(totalDays > days) return false;
             }
         }
-        return totalDays <= days;
+        return true;
     }
 }
