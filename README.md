@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-coloring-a-border](https://github.com/zeal512/LeetcodeSolutions/tree/master/1034-coloring-a-border) |
 | [1035-cousins-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zeal512/LeetcodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-coloring-a-border](https://github.com/zeal512/LeetcodeSolutions/tree/master/1034-coloring-a-border) |
 | [1035-cousins-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zeal512/LeetcodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/zeal512/LeetcodeSolutions/tree/master/0912-random-pick-with-weight) |
 | [0940-fruit-into-baskets](https://github.com/zeal512/LeetcodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [1028-interval-list-intersections](https://github.com/zeal512/LeetcodeSolutions/tree/master/1028-interval-list-intersections) |
+| [1034-coloring-a-border](https://github.com/zeal512/LeetcodeSolutions/tree/master/1034-coloring-a-border) |
 | [1046-max-consecutive-ones-iii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/zeal512/LeetcodeSolutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/zeal512/LeetcodeSolutions/tree/master/1319-unique-number-of-occurrences) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/zeal512/LeetcodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/zeal512/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0550-shortest-path-to-get-food](https://github.com/zeal512/LeetcodeSolutions/tree/master/0550-shortest-path-to-get-food) |
+| [1034-coloring-a-border](https://github.com/zeal512/LeetcodeSolutions/tree/master/1034-coloring-a-border) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/zeal512/LeetcodeSolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/zeal512/LeetcodeSolutions/tree/master/2737-row-with-maximum-ones) |
