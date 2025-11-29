@@ -1,5 +1,5 @@
 class Solution {
-    public int countBattleships(char[][] board) {
+    /* public int countBattleships(char[][] board) {
         int n = board.length, m = board[0].length;
         boolean[][] visited = new boolean[n][m];
         int battleships=0;
@@ -31,13 +31,17 @@ class Solution {
         visited[r][c]=true;
         if(r >= 0 && r < n && c+1 >= 0 && c+1 < m && !visited[r][c+1] && board[r][c+1] == 'X')
             dfsCol(r, c+1, board, visited, n, m);
+    } */
+    public int countBattleships(char[][] board) {
+        int n = board.length, m = board[0].length, battleships =0;
+        for(int i=0; i< n;i++){
+            for(int j=0; j< m; j++){
+                if(board[i][j]!= 'X') continue;
+                if(i-1 >=0 && board[i-1][j] == 'X') continue;
+                if(j-1 >=0 && board[i][j-1] == 'X') continue;
+                battleships+=1;
+            }
+        }
+        return battleships;
     }
 }
-
-/* 
-".", "X", "X", "X", "X", ".", "X", ".", "X", "."
-"X", ".", ".", ".", ".", ".", ".", ".", "X", "."
-".", "X", ".", "X", ".", "X", ".", ".", "X", "."
-"X", ".", "X", ".", "X", ".", ".", ".", "X", "."
-".", "X", ".", "X", ".", ".", "X", ".", ".", "X"
-*/
