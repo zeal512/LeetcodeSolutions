@@ -8,7 +8,6 @@ class Solution {
                 if(!visited[i][j] && grid[i][j] == 1){
                     maxArea = Math.max(dfs(i,j,grid,visited), maxArea);
                 }
-                else visited[i][j] = true;
             }
         }
         return maxArea;
