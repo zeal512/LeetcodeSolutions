@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/zeal512/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/zeal512/LeetcodeSolutions/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/zeal512/LeetcodeSolutions/tree/master/0890-lemonade-change) |
+| [0896-monotonic-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0896-monotonic-array) |
 | [0907-koko-eating-bananas](https://github.com/zeal512/LeetcodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/zeal512/LeetcodeSolutions/tree/master/0912-random-pick-with-weight) |
 | [0940-fruit-into-baskets](https://github.com/zeal512/LeetcodeSolutions/tree/master/0940-fruit-into-baskets) |
