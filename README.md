@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/zeal512/LeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0261-graph-valid-tree) |
+| [0286-walls-and-gates](https://github.com/zeal512/LeetcodeSolutions/tree/master/0286-walls-and-gates) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/zeal512/LeetcodeSolutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0463-island-perimeter](https://github.com/zeal512/LeetcodeSolutions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/zeal512/LeetcodeSolutions/tree/master/0542-01-matrix) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0243-shortest-word-distance](https://github.com/zeal512/LeetcodeSolutions/tree/master/0243-shortest-word-distance) |
 | [0274-h-index](https://github.com/zeal512/LeetcodeSolutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0283-move-zeroes) |
+| [0286-walls-and-gates](https://github.com/zeal512/LeetcodeSolutions/tree/master/0286-walls-and-gates) |
 | [0347-top-k-frequent-elements](https://github.com/zeal512/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/zeal512/LeetcodeSolutions/tree/master/0419-battleships-in-a-board) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/zeal512/LeetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/zeal512/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0286-walls-and-gates](https://github.com/zeal512/LeetcodeSolutions/tree/master/0286-walls-and-gates) |
 | [0419-battleships-in-a-board](https://github.com/zeal512/LeetcodeSolutions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/zeal512/LeetcodeSolutions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/zeal512/LeetcodeSolutions/tree/master/0498-diagonal-traverse) |
