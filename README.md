@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/zeal512/LeetcodeSolutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/1448-maximum-69-number) |
 | [1518-water-bottles](https://github.com/zeal512/LeetcodeSolutions/tree/master/1518-water-bottles) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/zeal512/LeetcodeSolutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/zeal512/LeetcodeSolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zeal512/LeetcodeSolutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2649-count-total-number-of-colored-cells](https://github.com/zeal512/LeetcodeSolutions/tree/master/2649-count-total-number-of-colored-cells) |
