@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/zeal512/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/zeal512/LeetcodeSolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/zeal512/LeetcodeSolutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/zeal512/LeetcodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0912-random-pick-with-weight](https://github.com/zeal512/LeetcodeSolutions/tree/master/0912-random-pick-with-weight) |
 | [0976-largest-perimeter-triangle](https://github.com/zeal512/LeetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/1013-fibonacci-number) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/zeal512/LeetcodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0367-valid-perfect-square](https://github.com/zeal512/LeetcodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/zeal512/LeetcodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/zeal512/LeetcodeSolutions/tree/master/0912-random-pick-with-weight) |
