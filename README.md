@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0545-boundary-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/zeal512/LeetcodeSolutions/tree/master/0690-employee-importance) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0545-boundary-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/zeal512/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/zeal512/LeetcodeSolutions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/zeal512/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/zeal512/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/zeal512/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0550-shortest-path-to-get-food](https://github.com/zeal512/LeetcodeSolutions/tree/master/0550-shortest-path-to-get-food) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/zeal512/LeetcodeSolutions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/zeal512/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0545-boundary-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
