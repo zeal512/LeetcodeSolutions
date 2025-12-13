@@ -1,15 +1,6 @@
 class Solution {
     public int[] divisibilityArray(String word, int m) {
         int n = word.length();
-        /* StringBuilder num = new StringBuilder();
-        int[] divisibilityArr = new int[n];
-        Arrays.fill(divisibilityArr, 0);
-        for(int i=0; i<n; i++){
-            num.append(word.charAt(i));
-            long checkNum = Integer.parseInt(num.toString());
-            if(checkNum % m == 0) divisibilityArr[i] = 1;
-        }
-        return divisibilityArr; */
         int[] result = new int[n];
         Arrays.fill(result, 0);
         long num = 0;
