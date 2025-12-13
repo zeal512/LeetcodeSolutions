@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/zeal512/LeetcodeSolutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/zeal512/LeetcodeSolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2427-first-letter-to-appear-twice](https://github.com/zeal512/LeetcodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/zeal512/LeetcodeSolutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3617-find-the-original-typed-string-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Sorting
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/zeal512/LeetcodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/zeal512/LeetcodeSolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zeal512/LeetcodeSolutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2649-count-total-number-of-colored-cells](https://github.com/zeal512/LeetcodeSolutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/zeal512/LeetcodeSolutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2369-maximum-sum-score-of-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/2369-maximum-sum-score-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/zeal512/LeetcodeSolutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2714-left-and-right-sum-differences](https://github.com/zeal512/LeetcodeSolutions/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/zeal512/LeetcodeSolutions/tree/master/2737-row-with-maximum-ones) |
