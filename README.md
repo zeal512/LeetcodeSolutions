@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/zeal512/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zeal512/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/zeal512/LeetcodeSolutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/zeal512/LeetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/zeal512/LeetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/zeal512/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/zeal512/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/zeal512/LeetcodeSolutions/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/zeal512/LeetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/zeal512/LeetcodeSolutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/zeal512/LeetcodeSolutions/tree/master/0079-word-search) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/zeal512/LeetcodeSolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zeal512/LeetcodeSolutions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/zeal512/LeetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/zeal512/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
