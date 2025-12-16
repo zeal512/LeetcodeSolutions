@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/zeal512/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/zeal512/LeetcodeSolutions/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/zeal512/LeetcodeSolutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0253-meeting-rooms-ii) |
 | [0274-h-index](https://github.com/zeal512/LeetcodeSolutions/tree/master/0274-h-index) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/zeal512/LeetcodeSolutions/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/zeal512/LeetcodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0243-shortest-word-distance](https://github.com/zeal512/LeetcodeSolutions/tree/master/0243-shortest-word-distance) |
+| [0252-meeting-rooms](https://github.com/zeal512/LeetcodeSolutions/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0253-meeting-rooms-ii) |
 | [0274-h-index](https://github.com/zeal512/LeetcodeSolutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0283-move-zeroes) |
