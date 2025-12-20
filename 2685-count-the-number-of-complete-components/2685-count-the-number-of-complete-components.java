@@ -1,9 +1,11 @@
 class Solution {
     public static int totalNodes = 0, totalEdges = 0;
     public int countCompleteComponents(int n, int[][] edges) {
-        List<List<Integer>> adjList = new ArrayList<>();
+        //List<List<Integer>> adjList = new ArrayList<>();
+        Map<Integer, List<Integer>> adjList = new HashMap<>();
         for(int i =0; i< n; i++){
-            adjList.add(new ArrayList<>());
+            //adjList.add(new ArrayList<>());
+            adjList.put(i,new ArrayList<>());
         }
         for(int[] edge: edges){
             int node1 = edge[0];
@@ -25,7 +27,9 @@ class Solution {
         }
         return completeConnectedComponents;
     }
-    public static void dfs(int node, List<List<Integer>> adjList, Set<Integer> visited){
+    public static void dfs(int node, Map<Integer, List<Integer>> adjList, Set<Integer> visited){
+    //public static void dfs(int node, List<List<Integer>> adjList, Set<Integer> visited){
+
         visited.add(node);
         totalNodes++;
         totalEdges += adjList.get(node).size();
