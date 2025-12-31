@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2649-count-total-number-of-colored-cells](https://github.com/zeal512/LeetcodeSolutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/zeal512/LeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/zeal512/LeetcodeSolutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/zeal512/LeetcodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/zeal512/LeetcodeSolutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2714-left-and-right-sum-differences](https://github.com/zeal512/LeetcodeSolutions/tree/master/2714-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/zeal512/LeetcodeSolutions/tree/master/2737-row-with-maximum-ones) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/zeal512/LeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/zeal512/LeetcodeSolutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeal512/LeetcodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/zeal512/LeetcodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/zeal512/LeetcodeSolutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/zeal512/LeetcodeSolutions/tree/master/2737-row-with-maximum-ones) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/zeal512/LeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Binary Search Tree
 |  |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/zeal512/LeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zeal512/LeetcodeSolutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/zeal512/LeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
