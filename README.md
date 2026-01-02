@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/zeal512/LeetcodeSolutions/tree/master/0690-employee-importance) |
 | [0778-reorganize-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/zeal512/LeetcodeSolutions/tree/master/0782-jewels-and-stones) |
+| [0840-magic-squares-in-grid](https://github.com/zeal512/LeetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/zeal512/LeetcodeSolutions/tree/master/0940-fruit-into-baskets) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/zeal512/LeetcodeSolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/zeal512/LeetcodeSolutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/zeal512/LeetcodeSolutions/tree/master/0367-valid-perfect-square) |
+| [0840-magic-squares-in-grid](https://github.com/zeal512/LeetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [0912-random-pick-with-weight](https://github.com/zeal512/LeetcodeSolutions/tree/master/0912-random-pick-with-weight) |
 | [0976-largest-perimeter-triangle](https://github.com/zeal512/LeetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/1013-fibonacci-number) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/zeal512/LeetcodeSolutions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/zeal512/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/zeal512/LeetcodeSolutions/tree/master/0724-find-pivot-index) |
+| [0840-magic-squares-in-grid](https://github.com/zeal512/LeetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/zeal512/LeetcodeSolutions/tree/master/0890-lemonade-change) |
 | [0896-monotonic-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0896-monotonic-array) |
 | [0907-koko-eating-bananas](https://github.com/zeal512/LeetcodeSolutions/tree/master/0907-koko-eating-bananas) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/zeal512/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0550-shortest-path-to-get-food](https://github.com/zeal512/LeetcodeSolutions/tree/master/0550-shortest-path-to-get-food) |
 | [0695-max-area-of-island](https://github.com/zeal512/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
+| [0840-magic-squares-in-grid](https://github.com/zeal512/LeetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [1034-coloring-a-border](https://github.com/zeal512/LeetcodeSolutions/tree/master/1034-coloring-a-border) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/zeal512/LeetcodeSolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
