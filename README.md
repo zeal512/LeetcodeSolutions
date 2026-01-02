@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/zeal512/LeetcodeSolutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/zeal512/LeetcodeSolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/zeal512/LeetcodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/zeal512/LeetcodeSolutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/zeal512/LeetcodeSolutions/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/zeal512/LeetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/1013-fibonacci-number) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/zeal512/LeetcodeSolutions/tree/master/1518-water-bottles) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/zeal512/LeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zeal512/LeetcodeSolutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/zeal512/LeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
