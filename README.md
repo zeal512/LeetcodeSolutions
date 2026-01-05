@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/1752-arithmetic-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/zeal512/LeetcodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1909-buildings-with-an-ocean-view](https://github.com/zeal512/LeetcodeSolutions/tree/master/1909-buildings-with-an-ocean-view) |
+| [1975-maximum-matrix-sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/1975-maximum-matrix-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/zeal512/LeetcodeSolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/zeal512/LeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/zeal512/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0840-magic-squares-in-grid](https://github.com/zeal512/LeetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [1034-coloring-a-border](https://github.com/zeal512/LeetcodeSolutions/tree/master/1034-coloring-a-border) |
+| [1975-maximum-matrix-sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/zeal512/LeetcodeSolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/zeal512/LeetcodeSolutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/zeal512/LeetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/zeal512/LeetcodeSolutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/1448-maximum-69-number) |
+| [1975-maximum-matrix-sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/1975-maximum-matrix-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeal512/LeetcodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/zeal512/LeetcodeSolutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
