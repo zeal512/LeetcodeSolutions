@@ -15,9 +15,3 @@ class Solution {
         return maxArrLength == Integer.MAX_VALUE ? 0: maxArrLength;
     }
 }
-/* 
-[2,3,1,2,4,3], target = 7
-           lr
- sum =    4 + 3
- len = 2
-*/
