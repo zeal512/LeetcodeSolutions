@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/zeal512/LeetcodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/zeal512/LeetcodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1391-counting-elements](https://github.com/zeal512/LeetcodeSolutions/tree/master/1391-counting-elements) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/zeal512/LeetcodeSolutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/zeal512/LeetcodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/1603-running-sum-of-1d-array) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/zeal512/LeetcodeSolutions/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/zeal512/LeetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/1013-fibonacci-number) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/zeal512/LeetcodeSolutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 ## Heap (Priority Queue)
 |  |
