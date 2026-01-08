@@ -14,8 +14,7 @@
  * }
  */
 class Solution {
-    
-    public int closestValue(TreeNode root, double target) {
+/*     public int closestValue(TreeNode root, double target) {
         //double minAbsDiff = Double.MAX_VALUE;
         int smallestVal = Integer.MAX_VALUE;
 
@@ -27,21 +26,28 @@ class Solution {
         }
         
         return smallestVal;
+    } */
+    public int closestValue(TreeNode root, double target) {
+        double[] minAbsDiff = new double[]{Double.MAX_VALUE};
+        int[] smallestVal = new int[]{Integer.MAX_VALUE};
+        dfs(root, target, minAbsDiff, smallestVal);
+        return smallestVal[0];
     }
-    /* public static void dfs(TreeNode currNode, double target){
+
+    public void dfs(TreeNode currNode, double target, double[] minAbsDiff, int[] smallestVal){
         if(currNode == null) return;
         if(target == currNode.val) {
-            smallestVal = currNode.val;
+            smallestVal[0] = currNode.val;
             return;
         }
-        double diff = Math.abs(target - currNode.val);
-        if(diff < minAbsDiff){
-            minAbsDiff = Math.min(minAbsDiff, diff);
-            smallestVal = currNode.val;
+        if(Math.abs(target - currNode.val) <  Math.abs(target - smallestVal[0]) || 
+            (Math.abs(target - currNode.val) ==  Math.abs(target - smallestVal[0]) && currNode.val < smallestVal[0])){
+            minAbsDiff[0] = Math.abs(target - currNode.val);
+            smallestVal[0] = currNode.val;
         }
-        if(target < currNode.val) dfs(currNode.left, target);
-        else dfs(currNode.left, target);
-    } */
+        if(target < currNode.val) dfs(currNode.left, target, minAbsDiff, smallestVal);
+        else dfs(currNode.right, target, minAbsDiff, smallestVal);
+    }
 }
 
 /* 
