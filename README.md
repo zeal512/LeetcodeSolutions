@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/zeal512/LeetcodeSolutions/tree/master/0912-random-pick-with-weight) |
 | [0976-largest-perimeter-triangle](https://github.com/zeal512/LeetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/1013-fibonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/zeal512/LeetcodeSolutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/zeal512/LeetcodeSolutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/zeal512/LeetcodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/zeal512/LeetcodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/zeal512/LeetcodeSolutions/tree/master/1034-coloring-a-border) |
 | [1046-max-consecutive-ones-iii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/zeal512/LeetcodeSolutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1266-minimum-time-visiting-all-points](https://github.com/zeal512/LeetcodeSolutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1319-unique-number-of-occurrences](https://github.com/zeal512/LeetcodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/zeal512/LeetcodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1391-counting-elements](https://github.com/zeal512/LeetcodeSolutions/tree/master/1391-counting-elements) |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/zeal512/LeetcodeSolutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/zeal512/LeetcodeSolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Counting Sort
 |  |
