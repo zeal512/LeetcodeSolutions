@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/zeal512/LeetcodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/zeal512/LeetcodeSolutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/zeal512/LeetcodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/3324-split-the-array) |
 | [3531-count-covered-buildings](https://github.com/zeal512/LeetcodeSolutions/tree/master/3531-count-covered-buildings) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/zeal512/LeetcodeSolutions/tree/master/2737-row-with-maximum-ones) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/zeal512/LeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/zeal512/LeetcodeSolutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeal512/LeetcodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/zeal512/LeetcodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/zeal512/LeetcodeSolutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/zeal512/LeetcodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
