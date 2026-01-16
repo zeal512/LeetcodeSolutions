@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0270-closest-binary-search-tree-value](https://github.com/zeal512/LeetcodeSolutions/tree/master/0270-closest-binary-search-tree-value) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/zeal512/LeetcodeSolutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/zeal512/LeetcodeSolutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0339-nested-list-weight-sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/0339-nested-list-weight-sum) |
 | [0419-battleships-in-a-board](https://github.com/zeal512/LeetcodeSolutions/tree/master/0419-battleships-in-a-board) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0437-path-sum-iii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0286-walls-and-gates](https://github.com/zeal512/LeetcodeSolutions/tree/master/0286-walls-and-gates) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/zeal512/LeetcodeSolutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/zeal512/LeetcodeSolutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0339-nested-list-weight-sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/0339-nested-list-weight-sum) |
 | [0463-island-perimeter](https://github.com/zeal512/LeetcodeSolutions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/zeal512/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/zeal512/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
