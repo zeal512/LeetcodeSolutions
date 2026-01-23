@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/zeal512/LeetcodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/3324-split-the-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/zeal512/LeetcodeSolutions/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3606-coupon-code-validator](https://github.com/zeal512/LeetcodeSolutions/tree/master/3606-coupon-code-validator) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/3324-split-the-array) |
 | [3429-special-array-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3429-special-array-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/zeal512/LeetcodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/zeal512/LeetcodeSolutions/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/zeal512/LeetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2413-smallest-number-in-infinite-set](https://github.com/zeal512/LeetcodeSolutions/tree/master/2413-smallest-number-in-infinite-set) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -689,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -740,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/zeal512/LeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
@@ -760,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/zeal512/LeetcodeSolutions/tree/master/2413-smallest-number-in-infinite-set) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -837,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/zeal512/LeetcodeSolutions/tree/master/0146-lru-cache) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Brainteaser
 |  |
 | ------- |
