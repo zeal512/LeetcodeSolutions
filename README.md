@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/zeal512/LeetcodeSolutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/zeal512/LeetcodeSolutions/tree/master/0165-compare-version-numbers) |
+| [0224-basic-calculator](https://github.com/zeal512/LeetcodeSolutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/zeal512/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0243-shortest-word-distance](https://github.com/zeal512/LeetcodeSolutions/tree/master/0243-shortest-word-distance) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/zeal512/LeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/zeal512/LeetcodeSolutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/zeal512/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/zeal512/LeetcodeSolutions/tree/master/0326-power-of-three) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/zeal512/LeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/zeal512/LeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zeal512/LeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/zeal512/LeetcodeSolutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0394-decode-string) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/zeal512/LeetcodeSolutions/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/zeal512/LeetcodeSolutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/zeal512/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/zeal512/LeetcodeSolutions/tree/master/0326-power-of-three) |
