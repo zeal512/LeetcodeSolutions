@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zeal512/LeetcodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1660-correct-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1660-correct-a-binary-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/zeal512/LeetcodeSolutions/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zeal512/LeetcodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1660-correct-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1660-correct-a-binary-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/zeal512/LeetcodeSolutions/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/zeal512/LeetcodeSolutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zeal512/LeetcodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1660-correct-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1660-correct-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/zeal512/LeetcodeSolutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/zeal512/LeetcodeSolutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/zeal512/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zeal512/LeetcodeSolutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1660-correct-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1660-correct-a-binary-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/zeal512/LeetcodeSolutions/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/zeal512/LeetcodeSolutions/tree/master/1319-unique-number-of-occurrences) |
 | [1391-counting-elements](https://github.com/zeal512/LeetcodeSolutions/tree/master/1391-counting-elements) |
 | [1590-make-sum-divisible-by-p](https://github.com/zeal512/LeetcodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
+| [1660-correct-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1660-correct-a-binary-tree) |
 | [1695-maximum-erasure-value](https://github.com/zeal512/LeetcodeSolutions/tree/master/1695-maximum-erasure-value) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/zeal512/LeetcodeSolutions/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1752-arithmetic-subarrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/1752-arithmetic-subarrays) |
