@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/zeal512/LeetcodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/zeal512/LeetcodeSolutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1909-buildings-with-an-ocean-view](https://github.com/zeal512/LeetcodeSolutions/tree/master/1909-buildings-with-an-ocean-view) |
+| [1929-concatenation-of-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/zeal512/LeetcodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2102-find-the-middle-index-in-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/2102-find-the-middle-index-in-array) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/zeal512/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/zeal512/LeetcodeSolutions/tree/master/0498-diagonal-traverse) |
 | [1518-water-bottles](https://github.com/zeal512/LeetcodeSolutions/tree/master/1518-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/zeal512/LeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zeal512/LeetcodeSolutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
