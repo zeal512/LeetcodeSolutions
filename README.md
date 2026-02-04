@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/zeal512/LeetcodeSolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/zeal512/LeetcodeSolutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/zeal512/LeetcodeSolutions/tree/master/0367-valid-perfect-square) |
+| [0369-plus-one-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0369-plus-one-linked-list) |
 | [0840-magic-squares-in-grid](https://github.com/zeal512/LeetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [0912-random-pick-with-weight](https://github.com/zeal512/LeetcodeSolutions/tree/master/0912-random-pick-with-weight) |
 | [0976-largest-perimeter-triangle](https://github.com/zeal512/LeetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0328-odd-even-linked-list) |
+| [0369-plus-one-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0369-plus-one-linked-list) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
