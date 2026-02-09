@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/zeal512/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/zeal512/LeetcodeSolutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/zeal512/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/zeal512/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/zeal512/LeetcodeSolutions/tree/master/0389-find-the-difference) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/zeal512/LeetcodeSolutions/tree/master/0274-h-index) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/zeal512/LeetcodeSolutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/zeal512/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/zeal512/LeetcodeSolutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/zeal512/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/zeal512/LeetcodeSolutions/tree/master/0286-walls-and-gates) |
 | [0347-top-k-frequent-elements](https://github.com/zeal512/LeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0419-battleships-in-a-board](https://github.com/zeal512/LeetcodeSolutions/tree/master/0419-battleships-in-a-board) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/zeal512/LeetcodeSolutions/tree/master/0455-assign-cookies) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0270-closest-binary-search-tree-value](https://github.com/zeal512/LeetcodeSolutions/tree/master/0270-closest-binary-search-tree-value) |
+| [0349-intersection-of-two-arrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/zeal512/LeetcodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -614,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0408-valid-word-abbreviation](https://github.com/zeal512/LeetcodeSolutions/tree/master/0408-valid-word-abbreviation) |
 | [0455-assign-cookies](https://github.com/zeal512/LeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
