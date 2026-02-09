@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/zeal512/LeetcodeSolutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2427-first-letter-to-appear-twice](https://github.com/zeal512/LeetcodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zeal512/LeetcodeSolutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/zeal512/LeetcodeSolutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/zeal512/LeetcodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/zeal512/LeetcodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/zeal512/LeetcodeSolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zeal512/LeetcodeSolutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zeal512/LeetcodeSolutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2649-count-total-number-of-colored-cells](https://github.com/zeal512/LeetcodeSolutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2369-maximum-sum-score-of-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/2369-maximum-sum-score-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zeal512/LeetcodeSolutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/zeal512/LeetcodeSolutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/zeal512/LeetcodeSolutions/tree/master/1297-maximum-number-of-balloons) |
 | [2427-first-letter-to-appear-twice](https://github.com/zeal512/LeetcodeSolutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zeal512/LeetcodeSolutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/zeal512/LeetcodeSolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/3324-split-the-array) |
 ## Linked List
