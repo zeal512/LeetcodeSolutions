@@ -48,7 +48,12 @@ class Solution {
         So, we can add the row+col index, and for a diagonal, sum or row and col index of any cell in that diagonal is equal.
         eg. ({1,0} and {0,1})
         */
-        Map<Integer, List<Integer>> diagonals = new HashMap<>();
+        
+        
+        //Approach Using HashMap, using row and col and finding index hash and using it as diagonal. 
+        
+        
+        /* Map<Integer, List<Integer>> diagonals = new HashMap<>();
         int total = 0;
         for(int r = nums.size()-1; r >= 0; r--){
             for(int c =0; c< nums.get(r).size(); c++){
@@ -67,6 +72,31 @@ class Solution {
                 ans[ptr++] = num;
             }
             current+=1;
+        }
+        return ans; */
+
+
+        // Using BFS technique
+
+        Queue<Pair<Integer, Integer>> queue = new LinkedList<>();
+        queue.offer(new Pair(0, 0));
+        List<Integer> list = new ArrayList<>();
+
+        while(!queue.isEmpty()) {
+            Pair<Integer, Integer> curr = queue.poll();
+            int row = curr.getKey();
+            int col = curr.getValue();
+            list.add(nums.get(row).get(col));
+            if(col == 0 && row + 1 < nums.size()){
+                queue.offer(new Pair(row+1, col));
+            }
+            if(col + 1 < nums.get(row).size()){
+                queue.offer(new Pair(row, col+1));
+            }
+        }
+        int[] ans = new int[list.size()];
+        for(int i =0; i < list.size(); i++){
+            ans[i] = list.get(i);
         }
         return ans;
     }
