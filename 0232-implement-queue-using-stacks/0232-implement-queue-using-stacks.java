@@ -6,38 +6,36 @@ class MyQueue {
         stack1 = new Stack<>();
         stack2 = new Stack<>();
     }
-    /* 
-    [1]
-    [4,3,2] 
-    */
     public void push(int x) {
         stack1.push(x);
     }
     
     public int pop() {
-        while (stack1.size() > 1) {
-            stack2.push(stack1.pop());
+        if(!stack2.isEmpty()){
+            return stack2.pop();
         }
-        int popVal = stack1.pop();
-        while (!stack2.isEmpty()) {
-            stack1.push(stack2.pop());
+        else{
+            while(!stack1.isEmpty()) {
+                stack2.push(stack1.pop());
+            }
         }
-        return popVal;
+        return stack2.pop();
     }
     
     public int peek() {
-        while (stack1.size() > 1) {
-            stack2.push(stack1.pop());
+        if(!stack2.isEmpty()){
+            return stack2.peek();
         }
-        int peekVal = stack1.peek();
-        while (!stack2.isEmpty()) {
-            stack1.push(stack2.pop());
+        else{
+            while(!stack1.isEmpty()) {
+                stack2.push(stack1.pop());
+            }
         }
-        return peekVal;
+        return stack2.peek();
     }
     
     public boolean empty() {
-        return stack1.isEmpty();
+        return (stack1.isEmpty() && stack2.isEmpty());
     }
 }
 
