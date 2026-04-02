@@ -1,7 +1,8 @@
 class Solution {
     public int maximizeSweetness(int[] sweetness, int k) {
-        int low = 1, high = 0;
+        int low = Integer.MAX_VALUE, high = 0;
         for(int i =0; i< sweetness.length; i++){
+            low = Math.min(low, sweetness[i]);
             high += sweetness[i];
         }
 
