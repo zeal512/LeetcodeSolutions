@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/zeal512/LeetcodeSolutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1424-diagonal-traverse-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1424-diagonal-traverse-ii) |
+| [1552-magnetic-force-between-two-balls](https://github.com/zeal512/LeetcodeSolutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1752-arithmetic-subarrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/1752-arithmetic-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/zeal512/LeetcodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/zeal512/LeetcodeSolutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/zeal512/LeetcodeSolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1552-magnetic-force-between-two-balls](https://github.com/zeal512/LeetcodeSolutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1590-make-sum-divisible-by-p](https://github.com/zeal512/LeetcodeSolutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/zeal512/LeetcodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/zeal512/LeetcodeSolutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/zeal512/LeetcodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/zeal512/LeetcodeSolutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/zeal512/LeetcodeSolutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/zeal512/LeetcodeSolutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
