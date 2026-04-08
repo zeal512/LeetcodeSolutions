@@ -15,17 +15,33 @@
  */
 class Solution {
     
+    private int position, result;
+
     public int kthSmallest(TreeNode root, int k) {
-        List<Integer> list = new ArrayList<>();
-        traverseDFS(root, k, list);
-        return list.get(k-1);
+        /* List<Integer> list = new ArrayList<>();
+        traverseDFS(root, list);
+        return list.get(k-1); */
+        traverse(root, k);
+        return result;
     }
-public void traverseDFS(TreeNode root, int k, List<Integer> list){
-        if(root == null){
+
+    public void traverse(TreeNode node, int k){
+        if(node == null) return;
+        traverse(node.left,k);
+        position+=1;
+        if(position == k){
+            result = node.val;
             return;
         }
-        traverseDFS(root.left, k, list);
-        list.add(root.val);
-        traverseDFS(root.right, k, list);
+        traverse(node.right, k);
     }
+    
+    /* public void traverseDFS(TreeNode root, List<Integer> list){
+        if(root == null)return;
+
+        traverseDFS(root.left, list);
+        list.add(root.val);
+        traverseDFS(root.right, list);
+    } */
+
 }
