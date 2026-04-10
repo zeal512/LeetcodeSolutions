@@ -1,6 +1,10 @@
 class Solution {
     //Memoization method
-    /* public int rob(int[] nums) {
+    /* 
+    TC - O(n)
+    SC - O(n) + O(n) -> Memoization + recursion stack
+    
+    public int rob(int[] nums) {
         int n = nums.length-1;
         int[] maxPossibility = new int[n+1];
         Arrays.fill(maxPossibility, -1);
@@ -18,6 +22,10 @@ class Solution {
     } */
 
     //tabulation method
+    /* 
+    TC - O(n)
+    SC - O(n) -> Tabulation array
+    
     public int rob(int[] nums){
         int n = nums.length;
         int[] maximized = new int[n];
@@ -27,6 +35,17 @@ class Solution {
             int cannotRob = maximized[i-1];
             maximized[i] = Math.max(canRob, cannotRob);
         }
-        return maximized[n-1];
+        return maximized[n-1];*/
+        public int rob(int[] nums){
+        int prev1 = nums[0], prev2= 0;
+        
+        for(int i =1; i < nums.length; i++){
+            int canRob = nums[i] + (i > 1? prev2 : 0);
+            int cannotRob = prev1;
+            int curr = Math.max(canRob, cannotRob);
+            prev2 = prev1;
+            prev1 = curr;
+        }
+        return prev1;
     }
 }
