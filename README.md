@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/zeal512/LeetcodeSolutions/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0394-decode-string) |
 | [0408-valid-word-abbreviation](https://github.com/zeal512/LeetcodeSolutions/tree/master/0408-valid-word-abbreviation) |
+| [0412-fizz-buzz](https://github.com/zeal512/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/zeal512/LeetcodeSolutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0778-reorganize-string) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/zeal512/LeetcodeSolutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/zeal512/LeetcodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0369-plus-one-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0369-plus-one-linked-list) |
+| [0412-fizz-buzz](https://github.com/zeal512/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
 | [0840-magic-squares-in-grid](https://github.com/zeal512/LeetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [0912-random-pick-with-weight](https://github.com/zeal512/LeetcodeSolutions/tree/master/0912-random-pick-with-weight) |
@@ -865,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/zeal512/LeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/zeal512/LeetcodeSolutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/zeal512/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/zeal512/LeetcodeSolutions/tree/master/0498-diagonal-traverse) |
 | [1518-water-bottles](https://github.com/zeal512/LeetcodeSolutions/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
