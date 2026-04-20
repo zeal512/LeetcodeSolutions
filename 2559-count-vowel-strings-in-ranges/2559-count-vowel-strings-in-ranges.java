@@ -19,12 +19,7 @@ class Solution {
         }
         for(int i = 0; i < queries.length; i++){ 
             int l = queries[i][0], r = queries[i][1];
-            if(l == r){
-                if(vowels.contains(words[l].charAt(0)) && 
-                    vowels.contains(words[l].charAt(words[l].length()-1))) ans[i] = 1;
-                else ans[i] = 0;
-            }
-            else ans[i] = l == 0 ?  preSum[r] : preSum[r] - preSum[l-1];
+            ans[i] = l == 0 ?  preSum[r] : preSum[r] - preSum[l-1];
         }
         return ans;
     }
