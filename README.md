@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/1752-arithmetic-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/zeal512/LeetcodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/zeal512/LeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/zeal512/LeetcodeSolutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3024-type-of-triangle](https://github.com/zeal512/LeetcodeSolutions/tree/master/3024-type-of-triangle) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeal512/LeetcodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2369-maximum-sum-score-of-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/2369-maximum-sum-score-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/zeal512/LeetcodeSolutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/zeal512/LeetcodeSolutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/zeal512/LeetcodeSolutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/zeal512/LeetcodeSolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/zeal512/LeetcodeSolutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/zeal512/LeetcodeSolutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/zeal512/LeetcodeSolutions/tree/master/2737-row-with-maximum-ones) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/zeal512/LeetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
