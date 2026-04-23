@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/zeal512/LeetcodeSolutions/tree/master/0782-jewels-and-stones) |
+| [0824-goat-latin](https://github.com/zeal512/LeetcodeSolutions/tree/master/0824-goat-latin) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/zeal512/LeetcodeSolutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/zeal512/LeetcodeSolutions/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
