@@ -7,7 +7,7 @@ class Solution {
         vowels.add('i');
         vowels.add('o');
         vowels.add('u');
-        StringBuffer answer = new StringBuffer();
+        StringBuilder answer = new StringBuilder();
         String[] words = sentence.split(" ");
         for(String word : words){
             if(vowels.contains( Character.toLowerCase(word.charAt(0)) )){
