@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1660-correct-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1660-correct-a-binary-tree) |
 | [1780-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1780-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [1816-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/zeal512/LeetcodeSolutions/tree/master/1816-lowest-common-ancestor-of-a-binary-tree-iv) |
+| [1971-find-if-path-exists-in-graph](https://github.com/zeal512/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/zeal512/LeetcodeSolutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/zeal512/LeetcodeSolutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/zeal512/LeetcodeSolutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/zeal512/LeetcodeSolutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1660-correct-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1660-correct-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/zeal512/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/zeal512/LeetcodeSolutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/zeal512/LeetcodeSolutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/zeal512/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -1021,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zeal512/LeetcodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/zeal512/LeetcodeSolutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1971-find-if-path-exists-in-graph](https://github.com/zeal512/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1029,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/zeal512/LeetcodeSolutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1971-find-if-path-exists-in-graph](https://github.com/zeal512/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Combinatorics
 |  |
 | ------- |
