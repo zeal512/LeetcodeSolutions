@@ -10,19 +10,15 @@ class Solution {
             adjList.get(v2).add(v1);
         }
         boolean[] visited = new boolean[n];
-        traverse(adjList, source, destination, visited);
-        if(visited[destination]) return true;
-        return false;
+        return traverse(adjList, source, destination, visited);
     }
-    public void traverse(Map<Integer, List<Integer>> adjList, int node, int destination, boolean[] visited){
-        if(visited[node] == true) return;
-        if(node == destination){
-            visited[destination] = true;
-            return;
-        }
+    public boolean traverse(Map<Integer, List<Integer>> adjList, int node, int destination, boolean[] visited){
+        if(node == destination) return true;
+        if(visited[node] == true) return false;
         visited[node] = true;
         for(int next : adjList.get(node)){
-            traverse(adjList, next, destination, visited);
+            if(traverse(adjList, next, destination, visited)) return true;
         }
+        return false;
     }
 }
