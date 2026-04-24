@@ -9,7 +9,6 @@ class Solution {
             adjList.get(v1).add(v2);
             adjList.get(v2).add(v1);
         }
-        System.out.println(adjList);
         boolean[] visited = new boolean[n];
         traverse(adjList, source, destination, visited);
         if(visited[destination]) return true;
