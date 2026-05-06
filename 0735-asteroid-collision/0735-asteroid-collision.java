@@ -24,10 +24,8 @@ class Solution {
             
             else stack.push(astroid);
         }
-        if(stack.isEmpty()) return new int[0];
-        int pointer = stack.size();
-        int[] result = new int[pointer];
-        for(int i = pointer-1; i >=0; i--){
+        int[] result = new int[stack.size()];
+        for(int i = stack.size()-1; i >=0; i--){
             result[i] = stack.pop();
         }
         return result;
