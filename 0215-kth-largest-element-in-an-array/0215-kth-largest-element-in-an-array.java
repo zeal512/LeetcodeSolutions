@@ -3,10 +3,11 @@ class Solution {
         PriorityQueue<Integer> pqueue = new PriorityQueue<>();
         for(int num: nums){
             pqueue.add(num);
+            if(pqueue.size() > k) pqueue.remove();
         }
-        for (int i = 0; i < nums.length - k; i++) {
+        /* for (int i = 0; i < nums.length - k; i++) {
             pqueue.poll();
-        }
+        } */
         return pqueue.peek();
     }
 }
