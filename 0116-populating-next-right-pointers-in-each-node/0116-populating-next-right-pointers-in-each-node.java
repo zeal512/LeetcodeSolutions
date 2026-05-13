@@ -22,7 +22,7 @@ class Node {
 */
 
 class Solution {
-    public Node connect(Node root) {
+    /* public Node connect(Node root) {
         if(root == null) return root;
         Queue<Node> queue = new LinkedList<>();
         Node newRoot = root;
@@ -38,5 +38,33 @@ class Solution {
             }
         }
         return newRoot;
+    } */
+    /* 
+        The above solution is using Queue (Level order traversal), 
+        we link the currentNode.next to next node in queue (queue.peek())
+        but the problem with this approach is it uses O(n) Time and Space.
+    */
+
+    /* 
+        If we use the previously generated connections using next pointer, we can traverse the tree 
+        in level order and establish connection. 
+        This approach would take O(n) time and O(1) space.
+    */
+
+    public Node connect(Node root){
+        if(root == null) return null;
+        Node leftMostNode = root;
+        while (leftMostNode.left != null) {
+            Node currNode = leftMostNode;
+            while (currNode != null) {
+                currNode.left.next = currNode.right;
+                if(currNode.next != null){
+                    currNode.right.next = currNode.next.left;
+                }
+                currNode = currNode.next;
+            }
+            leftMostNode = leftMostNode.left;
+        }
+        return root;
     }
 }
