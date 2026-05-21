@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/zeal512/LeetcodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/zeal512/LeetcodeSolutions/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/zeal512/LeetcodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/zeal512/LeetcodeSolutions/tree/master/0074-search-a-2d-matrix) |
+| [0099-recover-binary-search-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
