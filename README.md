@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/zeal512/LeetcodeSolutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/zeal512/LeetcodeSolutions/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/zeal512/LeetcodeSolutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1660-correct-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1660-correct-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/zeal512/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/zeal512/LeetcodeSolutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/zeal512/LeetcodeSolutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/zeal512/LeetcodeSolutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/zeal512/LeetcodeSolutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/zeal512/LeetcodeSolutions/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/zeal512/LeetcodeSolutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/zeal512/LeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/zeal512/LeetcodeSolutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/zeal512/LeetcodeSolutions/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3024-type-of-triangle](https://github.com/zeal512/LeetcodeSolutions/tree/master/3024-type-of-triangle) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/zeal512/LeetcodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3531-count-covered-buildings](https://github.com/zeal512/LeetcodeSolutions/tree/master/3531-count-covered-buildings) |
