@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/zeal512/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/zeal512/LeetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0886-possible-bipartition](https://github.com/zeal512/LeetcodeSolutions/tree/master/0886-possible-bipartition) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/zeal512/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/zeal512/LeetcodeSolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0886-possible-bipartition](https://github.com/zeal512/LeetcodeSolutions/tree/master/0886-possible-bipartition) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/zeal512/LeetcodeSolutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1076,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zeal512/LeetcodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0886-possible-bipartition](https://github.com/zeal512/LeetcodeSolutions/tree/master/0886-possible-bipartition) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/zeal512/LeetcodeSolutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/zeal512/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -1085,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0886-possible-bipartition](https://github.com/zeal512/LeetcodeSolutions/tree/master/0886-possible-bipartition) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/zeal512/LeetcodeSolutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/zeal512/LeetcodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Combinatorics
