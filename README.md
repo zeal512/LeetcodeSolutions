@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/zeal512/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/zeal512/LeetcodeSolutions/tree/master/0270-closest-binary-search-tree-value) |
+| [0285-inorder-successor-in-bst](https://github.com/zeal512/LeetcodeSolutions/tree/master/0285-inorder-successor-in-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/zeal512/LeetcodeSolutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0366-find-leaves-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0366-find-leaves-of-binary-tree) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/zeal512/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0261-graph-valid-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/zeal512/LeetcodeSolutions/tree/master/0270-closest-binary-search-tree-value) |
+| [0285-inorder-successor-in-bst](https://github.com/zeal512/LeetcodeSolutions/tree/master/0285-inorder-successor-in-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/zeal512/LeetcodeSolutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/zeal512/LeetcodeSolutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zeal512/LeetcodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/zeal512/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/zeal512/LeetcodeSolutions/tree/master/0270-closest-binary-search-tree-value) |
+| [0285-inorder-successor-in-bst](https://github.com/zeal512/LeetcodeSolutions/tree/master/0285-inorder-successor-in-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/zeal512/LeetcodeSolutions/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0366-find-leaves-of-binary-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0366-find-leaves-of-binary-tree) |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/zeal512/LeetcodeSolutions/tree/master/0426-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -685,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/zeal512/LeetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0270-closest-binary-search-tree-value](https://github.com/zeal512/LeetcodeSolutions/tree/master/0270-closest-binary-search-tree-value) |
+| [0285-inorder-successor-in-bst](https://github.com/zeal512/LeetcodeSolutions/tree/master/0285-inorder-successor-in-bst) |
 | [0287-find-the-duplicate-number](https://github.com/zeal512/LeetcodeSolutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/zeal512/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/zeal512/LeetcodeSolutions/tree/master/0367-valid-perfect-square) |
