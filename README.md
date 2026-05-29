@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/zeal512/LeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/zeal512/LeetcodeSolutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/zeal512/LeetcodeSolutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1219-path-with-maximum-gold](https://github.com/zeal512/LeetcodeSolutions/tree/master/1219-path-with-maximum-gold) |
 | [1231-divide-chocolate](https://github.com/zeal512/LeetcodeSolutions/tree/master/1231-divide-chocolate) |
 | [1266-minimum-time-visiting-all-points](https://github.com/zeal512/LeetcodeSolutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/zeal512/LeetcodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/zeal512/LeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/zeal512/LeetcodeSolutions/tree/master/0491-non-decreasing-subsequences) |
+| [1219-path-with-maximum-gold](https://github.com/zeal512/LeetcodeSolutions/tree/master/1219-path-with-maximum-gold) |
 ## Matrix
 |  |
 | ------- |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/zeal512/LeetcodeSolutions/tree/master/0695-max-area-of-island) |
 | [0840-magic-squares-in-grid](https://github.com/zeal512/LeetcodeSolutions/tree/master/0840-magic-squares-in-grid) |
 | [1034-coloring-a-border](https://github.com/zeal512/LeetcodeSolutions/tree/master/1034-coloring-a-border) |
+| [1219-path-with-maximum-gold](https://github.com/zeal512/LeetcodeSolutions/tree/master/1219-path-with-maximum-gold) |
 | [1329-sort-the-matrix-diagonally](https://github.com/zeal512/LeetcodeSolutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/zeal512/LeetcodeSolutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/1975-maximum-matrix-sum) |
