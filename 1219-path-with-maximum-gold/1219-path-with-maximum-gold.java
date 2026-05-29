@@ -5,7 +5,7 @@ class Solution {
         int maxGold = 0;
         for(int i = 0; i < rows; i ++){
             for(int j =0; j < cols; j++){
-                if(!visited[i][j] && grid[i][j]!= 0){                    
+                if(grid[i][j]!= 0){                    
                     maxGold = Math.max(maxGold, dfs(i, j, visited, grid));
                 }
             }
