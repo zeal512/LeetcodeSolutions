@@ -1,0 +1,74 @@
+/*
+// Definition for a Node.
+class Node {
+    public int val;
+    public Node left;
+    public Node right;
+    public Node next;
+
+    public Node() {}
+    
+    public Node(int _val) {
+        val = _val;
+    }
+
+    public Node(int _val, Node _left, Node _right, Node _next) {
+        val = _val;
+        left = _left;
+        right = _right;
+        next = _next;
+    }
+};
+*/
+
+class Solution {
+    public Node connect(Node root) {
+        if(root == null) return null;
+        Node leftMostNode = root;
+        while(leftMostNode != null){
+            Node curr = leftMostNode;
+            
+            while(curr != null){
+                
+                if(curr.left != null){
+                    curr.left.next = curr.right != null ? curr.right : getNextNode(curr.next);
+                    /* if(curr.right != null) curr.left.next = curr.right;
+                    else if(curr.next != null){
+                         if(curr.next.left != null){
+                            curr.left.next = curr.next.left;
+                        }
+                        else if(curr.next.right != null){
+                            curr.left.next = curr.next.right;
+                        }
+                    } */
+                }
+                
+                //if(curr.next != null && curr.right != null){
+                if(curr.right != null){
+                    curr.right.next = getNextNode(curr.next);
+                    /* if(curr.next.left != null){
+                        curr.right.next = curr.next.left;
+                    }
+                    else if(curr.next.right != null){
+                        curr.right.next = curr.next.right;
+                    } */
+                }
+                curr = curr.next;
+            }
+            if(leftMostNode.left != null) leftMostNode = leftMostNode.left;
+            else if(leftMostNode.right != null) leftMostNode = leftMostNode.right;
+            else leftMostNode = leftMostNode.next;
+            
+        }
+        return root;
+    }
+
+    public Node getNextNode(Node node){
+        while(node != null){
+            if(node.left != null) return node.left;
+            if(node.right != null) return node.right;
+            node = node.next;
+        }
+        return node;
+    }
+}
