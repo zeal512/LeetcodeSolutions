@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/zeal512/LeetcodeSolutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/zeal512/LeetcodeSolutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0339-nested-list-weight-sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/0339-nested-list-weight-sum) |
+| [0433-minimum-genetic-mutation](https://github.com/zeal512/LeetcodeSolutions/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/zeal512/LeetcodeSolutions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/zeal512/LeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/zeal512/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/zeal512/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/zeal512/LeetcodeSolutions/tree/master/0389-find-the-difference) |
+| [0433-minimum-genetic-mutation](https://github.com/zeal512/LeetcodeSolutions/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zeal512/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/zeal512/LeetcodeSolutions/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/zeal512/LeetcodeSolutions/tree/master/0523-continuous-subarray-sum) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0394-decode-string) |
 | [0408-valid-word-abbreviation](https://github.com/zeal512/LeetcodeSolutions/tree/master/0408-valid-word-abbreviation) |
 | [0412-fizz-buzz](https://github.com/zeal512/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
+| [0433-minimum-genetic-mutation](https://github.com/zeal512/LeetcodeSolutions/tree/master/0433-minimum-genetic-mutation) |
 | [0647-palindromic-substrings](https://github.com/zeal512/LeetcodeSolutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/zeal512/LeetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/zeal512/LeetcodeSolutions/tree/master/0778-reorganize-string) |
