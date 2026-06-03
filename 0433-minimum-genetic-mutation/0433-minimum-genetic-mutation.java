@@ -2,7 +2,12 @@ class Solution {
     public int minMutation(String startGene, String endGene, String[] bank) {
         Queue<String> queue = new LinkedList<>();
         Set<String> set = new HashSet<>();
+        Set<String> bankSet = new HashSet<>();
+        for(String gene : bank){
+            bankSet.add(gene);
+        }
         queue.offer(startGene);
+
         int minimum_mutations = 0;
         while (!queue.isEmpty()) {
             int currSize = queue.size();
@@ -16,7 +21,7 @@ class Solution {
                 for(char ch : new char[] {'A', 'C', 'G','T'}){
                     for(int k =0; k < node.length(); k++){
                         String neighbour = node.substring(0, k) + ch + node.substring(k+1);
-                        if(!set.contains(neighbour) && Arrays.asList(bank).contains(neighbour) ){
+                        if(!set.contains(neighbour) && bankSet.contains(neighbour) ){
                             queue.offer(neighbour);
                             set.add(neighbour);
                         }
